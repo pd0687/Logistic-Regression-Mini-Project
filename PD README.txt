@@ -1,0 +1,1 @@
+The .R file places NatHealth2011.rds within a folder named "dataSets" within the working directory.
